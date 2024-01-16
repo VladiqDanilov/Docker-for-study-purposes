@@ -25,6 +25,9 @@ After Build.png:
 Stop_cont.png:
 Остановка контейнера
 
+launch_command with mapping.png:
+Запуск контейнера с mapping портов (токен -p)
+
 theRes_work.png:
 Результат работы с Докером
 
